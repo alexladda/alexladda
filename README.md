@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexladda
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to build a full Data Science Chain
+- 🌱 I’m currently learning how to build a full Data Science Pipeline
 
 
 <!---
