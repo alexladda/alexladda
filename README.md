@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @alexladda
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to build a full Data Science Pipeline
+- 🌱 I’m currently learning how to build a Data Science Pipeline:
 
+* Module 1: Accessing (live) data via APIs
+* Module 2: Exctract, Transform, Load
+* Module 3: Database
+* Module 4: Maths (AI, ML, Statistics)
+* Module 5: Representation: https://instance-1.net (flask), Tableau
+
+![Diagram of Pipeline with Modules](https://i.imgur.com/zzblUq5.jpg)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
