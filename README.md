@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Programming and the IT industry.
 - 🌱 I’m currently learning how to build a Pipeline:
 
 * Module 1: Accessing (live) data via APIs
