@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Data Engineering.
 - 🌱 I do SQL things.
